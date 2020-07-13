@@ -49,3 +49,6 @@ There are always null values in dataset you must have knowledge how to deal with
 [Chapter 6: Data Visualization](https://github.com/machine-learnig-ai/Pro_Pandas/tree/master/06_Visualization)
 
 With out visulazation you unable to explain things to anyone, if you want to describd data with visulization anyone will understand it easily.
+
+
+## More Related with Pandas check PDF File
