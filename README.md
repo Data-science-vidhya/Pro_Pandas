@@ -52,3 +52,4 @@ With out visulazation you unable to explain things to anyone, if you want to des
 
 
 ## More Related with Pandas check PDF File
+[🐼 PANDAS 🐼.pdf](https://github.com/machine-learnig-ai/Pro_Pandas/blob/master/%F0%9F%90%BC%20PANDAS%20%F0%9F%90%BC.pdf)
